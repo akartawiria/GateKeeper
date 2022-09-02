@@ -1,0 +1,27 @@
+﻿[
+  {
+    "date": "2022-09-02",
+    "temperatureC": 31,
+    "summary": "Panas"
+  },
+  {
+    "date": "2022-09-02",
+    "temperatureC": 24,
+    "summary": "Dingin"
+  },
+  {
+    "date": "2022-09-02",
+    "temperatureC": 37,
+    "summary": "Sangat Panas"
+  },
+  {
+    "date": "2022-09-02",
+    "temperatureC": 19,
+    "summary": "Dingin Sekali"
+  },
+  {
+    "date": "2022-09-02",
+    "temperatureC": 40,
+    "summary": "Panas Sekali"
+  }
+]
